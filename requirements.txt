@@ -1,0 +1,13 @@
+matplotlib==3.8.0
+numpy==1.25.2
+pandas==2.1.0
+Pillow==10.0.0
+prettytable==3.9.0
+pydgn==1.5.3
+scikit-learn==1.3.0
+scipy==1.11.2
+seaborn==0.13.0
+torch==2.0.1
+gpustat==1.1.1
+jupyter==1.0.0
+
