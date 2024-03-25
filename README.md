@@ -1,4 +1,4 @@
-# Adapive Message Passing (AMP)
+# Adaptive Message Passing (AMP)
 
 This is the official code to reproduce the experiments of our JMLR submission
 
